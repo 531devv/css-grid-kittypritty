@@ -7,6 +7,13 @@ This is simple webpage using HTML5 and CSS Grid.
 - Responsive webpage.
 - For each screen another sequence (mobile, tablet, laptop and  higher).
 
+### Sequences
+![Mobile](https://github.com/531devv/css-grid-prettykitty/tree/master/images/preview/mobile.jpg)
+
+![Tablet](https://github.com/531devv/css-grid-prettykitty/tree/master/images/preview/tablet.jpg)
+
+![Laptop and higher](https://github.com/531devv/css-grid-prettykitty/tree/master/images/preview/laptop.jpg)
+
 ### TODO
 
 - Pretty image loader.
