@@ -1,4 +1,4 @@
-# Simple-todo-js
+# CSS-Grid-PrettyKitty
 
 This is simple webpage using HTML5 and CSS Grid.
 
@@ -13,14 +13,14 @@ This is simple webpage using HTML5 and CSS Grid.
 
 ### Live preview
 
-https://531devv.github.io/css-grid-kittypritty/.
+https://531devv.github.io/css-grid-prettykitty/.
 
 ### Installation
 
 This app requires only web browser.
 
 ```sh
-$ git clone https://github.com/531devv/css-grid-kittypritty.git
+$ git clone https://github.com/531devv/css-grid-prettykitty.git
 $ cd simple-todo-js
 $ open index.html
 ```
