@@ -4,12 +4,12 @@ This is simple webpage using HTML5 and CSS Grid.
 
 ### Features
 
-    - Responsive webpage.
-    - For each screen another sequence (mobile, tablet, laptop and  higher).
+- Responsive webpage.
+- For each screen another sequence (mobile, tablet, laptop and  higher).
 
 ### TODO
 
-    - Pretty image loader.
+- Pretty image loader.
 
 ### Live preview
 

@@ -106,12 +106,12 @@ main {
         grid-row: 5 / span 1;
     }
 
-    .grid-item-10 {
+    .grid-item-6 {
         grid-column: 1 / span 6;
         grid-row: 6 / span 2;
     }
 
-    .grid-item-6 {
+    .grid-item-10 {
         grid-column: 1 / span 3;
         grid-row: 8 / span 1;
     }
