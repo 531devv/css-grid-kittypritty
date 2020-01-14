@@ -8,7 +8,7 @@ This is simple webpage using HTML5 and CSS Grid.
 - For each screen another sequence (mobile, tablet, laptop and  higher).
 
 ### Sequences
-- ![Mobile (min-width: 640px)](https://github.com/531devv/css-grid-prettykitty/tree/master/images/preview/mobile.jpg)
+- ![Mobile (max-width: 1024px)](https://github.com/531devv/css-grid-prettykitty/tree/master/images/preview/mobile.jpg)
 
 - ![Tablet (min-width: 1024px)](https://github.com/531devv/css-grid-prettykitty/tree/master/images/preview/tablet.jpg)
 
