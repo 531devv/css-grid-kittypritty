@@ -45,7 +45,6 @@ main {
 }
 
 .grid-item {
-    display: none;
     overflow: hidden;
 }
 
@@ -53,11 +52,7 @@ main {
     width: 100%;
 }
 
-@media (max-width: 640px){
-    .grid-item {display: flex;}
-}
-
-@media (min-width: 640px) {
+@media (min-width: 1024px) {
     .grid {
         grid-template-columns: repeat(6, 1fr);
     }
